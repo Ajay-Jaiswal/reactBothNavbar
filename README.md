@@ -1,5 +1,9 @@
 # Responsive Navigation Menu in React JS
 
+![image](https://user-images.githubusercontent.com/100516745/193523445-6592344a-99d3-435b-9cec-537cc3a32ce9.png)
+
+![image](https://user-images.githubusercontent.com/100516745/193523588-2e4639c9-8258-485f-9069-562ba40ea538.png)
+
 This repository contains code for responsive navbar in react with react-router functoinalities.
 
 If you want to learn how to create it please follow below tutorial:
@@ -40,6 +44,4 @@ If you aren’t satisfied with the build tool and configuration choices, you can
 
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for
